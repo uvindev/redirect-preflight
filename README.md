@@ -39,7 +39,7 @@ Static analysis cannot prove deployed response codes, destination availability, 
 
 ## Monetization status
 
-One map is free. Team would add shared versions, approval history, inventory coverage, platform exports, CI enforcement, and launch records at [TARGET] $24 per workspace per month. Demand, price acceptance, customers, and revenue are unverified.
+One map is free. Demand, price acceptance, customers, and revenue are unverified.
 
 ---
 
