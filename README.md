@@ -4,6 +4,8 @@ RedirectPreflight checks a planned redirect map before the rules reach a server.
 
 The direct-map output replaces resolvable chains with their terminal destinations. It excludes conflicts, loops, self-redirects, malformed rows, and source fragments that a server cannot receive.
 
+![RedirectPreflight on load: the screen that checks a redirect map for loops and chains](docs/screenshot.png)
+
 ## Local setup
 
 ```bash
