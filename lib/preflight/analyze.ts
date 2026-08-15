@@ -4,7 +4,7 @@
  * @website  https://iamuvin.com
  * @company  ASI Research Labs — asiresearch.io
  * @built    2026
- * @license  Proprietary — all rights reserved
+ * @license  MIT
  */
 import { preflightInputSchema } from "@/lib/schemas/preflight";
 import { CsvParseError, parseCsv } from "@/lib/preflight/parser";
